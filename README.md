@@ -27,18 +27,17 @@ Trivia Go! permite a los usuarios registrarse, competir en 7 categorías de preg
 | Diseño | Material Design |
 
 ## Estructura del proyecto
-TriviaGo/
-├── app/                  # Aplicación Android (Kotlin)
-│   └── src/main/
-│       ├── java/         # Código fuente
-│       └── assets/       # Preguntas en JSON
-└── trivia_api/           # Backend PHP
-├── db.php
-├── register.php
-├── login.php
-├── save_score.php
-├── get_ranking.php
-└── get_best_score.php
+
+- `app/` — Aplicación Android (Kotlin)
+  - `src/main/java/` — Código fuente
+  - `src/main/assets/` — Preguntas en JSON por categoría
+- `trivia_api/` — Backend PHP
+  - `db.php` — Conexión a MariaDB
+  - `register.php` — Registro de usuarios
+  - `login.php` — Autenticación
+  - `save_score.php` — Guardar puntuación
+  - `get_ranking.php` — Ranking diario
+  - `get_best_score.php` — Récord personal
 
 ## Requisitos
 
