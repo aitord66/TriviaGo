@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- ── Colores base oscuro ──────────────────── -->
+    <color name="bg_dark">#0D1B2A</color>
+    <color name="card_dark">#1E2A3A</color>
+    <color name="text_primary_dark">#ECEFF1</color>
+    <color name="text_secondary_dark">#90A4AE</color>
+    <color name="hint_dark">#546E7A</color>
+    <color name="btn_opcion_dark">#1565C0</color>
+    <color name="edittext_stroke_dark">#2A3F55</color>
+    <color name="edittext_bg_dark">#0D1B2A</color>
+
+    <!-- ── Colores base claro ───────────────────── -->
+    <color name="bg_light">#F0F4F8</color>
+    <color name="bg_light_status">#DDE6EF</color>
+    <color name="card_light">#FFFFFF</color>
+    <color name="text_primary_light">#1A2A3A</color>
+    <color name="text_secondary_light">#4A6275</color>
+    <color name="hint_light">#9BAFBE</color>
+    <color name="btn_opcion_light">#1976D2</color>
+    <color name="edittext_stroke_light">#B0CAD8</color>
+    <color name="edittext_bg_light">#FFFFFF</color>
+
+    <!-- ── Acentos comunes ──────────────────────── -->
+    <color name="accent_yellow">#FFD740</color>
+    <color name="accent_amber">#F59E0B</color>
+    <color name="accent_green">#69F0AE</color>
+    <color name="accent_green_light">#059669</color>
+    <color name="accent_red">#FF5252</color>
+    <color name="accent_orange">#FF7043</color>
+
+    <!-- ── Categorías ──────────────────────────── -->
+    <color name="cat_historia">#FF8C00</color>
+    <color name="cat_ciencia">#1565C0</color>
+    <color name="cat_geografia">#2E7D32</color>
+    <color name="cat_arte">#AD1457</color>
+    <color name="cat_deportes">#F57F17</color>
+    <color name="cat_tecnologia">#4527A0</color>
+
+</resources>

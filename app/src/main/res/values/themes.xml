@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <!-- Tema base vacío para el Manifest, sin colores propios -->
+    <style name="Theme.TriviaGame.Launcher" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+    </style>
+
+
+    <!-- ════════════════════════════════════════════
+         Atributos personalizados usados en los XML
+         ════════════════════════════════════════════ -->
+    <attr name="bgMainGame"        format="reference|color" />
+    <attr name="cardBackgroundGame" format="reference|color" />
+    <attr name="textPrimaryGame"   format="reference|color" />
+    <attr name="textSecondaryGame" format="reference|color" />
+    <attr name="hintTextGame"      format="reference|color" />
+    <attr name="btnOpcionTint"     format="reference|color" />
+    <attr name="colorAccentGame"   format="reference|color" />
+    <attr name="edittextStroke"    format="reference|color" />
+    <attr name="edittextBgGame"    format="reference" />
+
+    <!-- ════════════════════════════════════════════
+         TEMA OSCURO  (predeterminado)
+         ════════════════════════════════════════════ -->
+    <style name="Theme.TriviaGame" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="edittextBgGame">@drawable/edittext_game</item>
+        <item name="colorPrimary">#FFD740</item>
+        <item name="colorPrimaryVariant">#0D1B2A</item>
+        <item name="colorSecondary">#69F0AE</item>
+        <item name="android:windowBackground">@color/bg_dark</item>
+        <item name="android:statusBarColor">@color/bg_dark</item>
+        <item name="android:navigationBarColor">@color/bg_dark</item>
+
+        <!-- Atributos propios -->
+        <item name="bgMainGame">@drawable/bg_splash</item>
+        <item name="cardBackgroundGame">@color/card_dark</item>
+        <item name="textPrimaryGame">@color/text_primary_dark</item>
+        <item name="textSecondaryGame">@color/text_secondary_dark</item>
+        <item name="hintTextGame">@color/hint_dark</item>
+        <item name="btnOpcionTint">@color/btn_opcion_dark</item>
+        <item name="colorAccentGame">@color/accent_yellow</item>
+        <item name="edittextStroke">@color/edittext_stroke_dark</item>
+    </style>
+
+    <!-- ════════════════════════════════════════════
+         TEMA CLARO
+         ════════════════════════════════════════════ -->
+    <style name="Theme.TriviaGame.Light" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <item name="edittextBgGame">@drawable/edittext_game_light</item>
+        <item name="colorPrimary">#F59E0B</item>
+        <item name="colorPrimaryVariant">#FEF3C7</item>
+        <item name="colorSecondary">#059669</item>
+        <item name="android:windowBackground">@color/bg_light</item>
+        <item name="android:statusBarColor">@color/bg_light_status</item>
+        <item name="android:navigationBarColor">@color/bg_light</item>
+
+        <!-- Atributos propios -->
+        <item name="bgMainGame">@drawable/bg_splash_light</item>
+        <item name="cardBackgroundGame">@color/card_light</item>
+        <item name="textPrimaryGame">@color/text_primary_light</item>
+        <item name="textSecondaryGame">@color/text_secondary_light</item>
+        <item name="hintTextGame">@color/hint_light</item>
+        <item name="btnOpcionTint">@color/btn_opcion_light</item>
+        <item name="colorAccentGame">@color/accent_amber</item>
+        <item name="edittextStroke">@color/edittext_stroke_light</item>
+    </style>
+
+</resources>

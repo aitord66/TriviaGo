@@ -1,0 +1,115 @@
+{
+  "categoria": "Videojuegos",
+  "preguntas": [
+    {
+      "id": 1,
+      "enunciado": "¿En qué año se lanzó la primera consola PlayStation de Sony?",
+      "imagen": "vj_playstation1",
+      "opciones": [
+        {"texto": "1994", "es_correcta": true},
+        {"texto": "1996", "es_correcta": false},
+        {"texto": "1992", "es_correcta": false},
+        {"texto": "1998", "es_correcta": false}
+      ]
+    },
+    {
+      "id": 2,
+      "enunciado": "¿Cómo se llama la princesa que rescata Mario en la saga de Nintendo?",
+      "imagen": "vj_mario_peach",
+      "opciones": [
+        {"texto": "Peach", "es_correcta": true},
+        {"texto": "Zelda", "es_correcta": false},
+        {"texto": "Samus", "es_correcta": false},
+        {"texto": "Rosalina", "es_correcta": false}
+      ]
+    },
+    {
+      "id": 3,
+      "enunciado": "¿Qué empresa desarrolló el videojuego Minecraft?",
+      "imagen": "vj_minecraft",
+      "opciones": [
+        {"texto": "Mojang", "es_correcta": true},
+        {"texto": "Valve", "es_correcta": false},
+        {"texto": "Epic Games", "es_correcta": false},
+        {"texto": "Blizzard", "es_correcta": false}
+      ]
+    },
+    {
+      "id": 4,
+      "enunciado": "¿En qué reino ficticio ocurre Dark Souls?",
+      "imagen": "vj_darksouls",
+      "opciones": [
+        {"texto": "Lordran", "es_correcta": true},
+        {"texto": "Drangleic", "es_correcta": false},
+        {"texto": "Lothric", "es_correcta": false},
+        {"texto": "Yharnam", "es_correcta": false}
+      ]
+    },
+    {
+      "id": 5,
+      "enunciado": "¿Cuál fue el videojuego más vendido de la historia?",
+      "imagen": "vj_minecraft_ventas",
+      "opciones": [
+        {"texto": "Minecraft", "es_correcta": true},
+        {"texto": "Tetris", "es_correcta": false},
+        {"texto": "GTA V", "es_correcta": false},
+        {"texto": "Wii Sports", "es_correcta": false}
+      ]
+    },
+    {
+      "id": 6,
+      "enunciado": "¿Quien protagoniza el videojuego Metal Gear Solid 3?",
+      "imagen": "vj_mgs3",
+      "opciones": [
+        {"texto": "Naked Snake", "es_correcta": true},
+        {"texto": "Solid Snake", "es_correcta": false},
+        {"texto": "Raiden", "es_correcta": false},
+        {"texto": "Venom Snake", "es_correcta": false}
+      ]
+    },
+    {
+      "id": 7,
+      "enunciado": "¿En qué ciudad ficticia transcurre GTA V?",
+      "imagen": "vj_gta_v",
+      "opciones": [
+        {"texto": "Los Santos", "es_correcta": true},
+        {"texto": "Liberty City", "es_correcta": false},
+        {"texto": "Vice City", "es_correcta": false},
+        {"texto": "Blaine County", "es_correcta": false}
+      ]
+    },
+    {
+      "id": 8,
+      "enunciado": "¿Qué saga de videojuegos tiene como protagonista a Kratos?",
+      "imagen": "vj_god_of_war",
+      "opciones": [
+        {"texto": "God of War", "es_correcta": true},
+        {"texto": "Devil May Cry", "es_correcta": false},
+        {"texto": "Bayonetta", "es_correcta": false},
+        {"texto": "Dante's Inferno", "es_correcta": false}
+      ]
+    },
+    {
+      "id": 9,
+      "enunciado": "¿En que videojuego de Pokémon, el Pokémon insignia es Giratina?",
+      "imagen": "vj_pkmn",
+      "opciones": [
+        {"texto": "Pokémon Platino", "es_correcta": true},
+        {"texto": "Pokémon Blanco", "es_correcta": false},
+        {"texto": "Pokémon Blanco 2", "es_correcta": false},
+        {"texto": "Pokémon Y", "es_correcta": false}
+      ]
+    },
+    {
+      "id": 10,
+      "enunciado": "¿Qué empresa creó la consola Xbox?",
+      "imagen": "vj_xbox_consola",
+      "opciones": [
+        {"texto": "Microsoft", "es_correcta": true},
+        {"texto": "Sony", "es_correcta": false},
+        {"texto": "Nintendo", "es_correcta": false},
+        {"texto": "Sega", "es_correcta": false}
+      ]
+    }
+  ]
+}

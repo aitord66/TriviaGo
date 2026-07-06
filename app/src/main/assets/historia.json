@@ -1,0 +1,115 @@
+{
+  "categoria": "Historia",
+  "preguntas": [
+    {
+      "id": 1,
+      "enunciado": "¿En qué año se descubrió América?",
+      "imagen": "hist_descubrimiento_america",
+      "opciones": [
+        {"texto": "1492", "es_correcta": true},
+        {"texto": "1500", "es_correcta": false},
+        {"texto": "1345", "es_correcta": false},
+        {"texto": "1512", "es_correcta": false}
+      ]
+    },
+    {
+      "id": 2,
+      "enunciado": "¿Quién fue el primer presidente de los Estados Unidos?",
+      "imagen": "hist_george_washington",
+      "opciones": [
+        {"texto": "George Washington", "es_correcta": true},
+        {"texto": "Abraham Lincoln", "es_correcta": false},
+        {"texto": "Thomas Jefferson", "es_correcta": false},
+        {"texto": "Benjamin Franklin", "es_correcta": false}
+      ]
+    },
+    {
+      "id": 3,
+      "enunciado": "¿En qué año comenzó la Primera Guerra Mundial?",
+      "imagen": "hist_primera_guerra_mundial",
+      "opciones": [
+        {"texto": "1914", "es_correcta": true},
+        {"texto": "1918", "es_correcta": false},
+        {"texto": "1939", "es_correcta": false},
+        {"texto": "1905", "es_correcta": false}
+      ]
+    },
+    {
+      "id": 4,
+      "enunciado": "¿Cuál fue el imperio más grande de la historia?",
+      "imagen": "hist_imperio_mongol",
+      "opciones": [
+        {"texto": "Imperio Mongol", "es_correcta": true},
+        {"texto": "Imperio Romano", "es_correcta": false},
+        {"texto": "Imperio Británico", "es_correcta": false},
+        {"texto": "Imperio Español", "es_correcta": false}
+      ]
+    },
+    {
+      "id": 5,
+      "enunciado": "¿En qué ciudad fue asesinado Abraham Lincoln?",
+      "imagen": "hist_abraham_lincoln",
+      "opciones": [
+        {"texto": "Washington D.C.", "es_correcta": true},
+        {"texto": "Nueva York", "es_correcta": false},
+        {"texto": "Chicago", "es_correcta": false},
+        {"texto": "Boston", "es_correcta": false}
+      ]
+    },
+    {
+      "id": 6,
+      "enunciado": "¿Quién construyó las pirámides de Giza?",
+      "imagen": "hist_piramides_giza",
+      "opciones": [
+        {"texto": "Los antiguos egipcios", "es_correcta": true},
+        {"texto": "Los romanos", "es_correcta": false},
+        {"texto": "Los griegos", "es_correcta": false},
+        {"texto": "Los mayas", "es_correcta": false}
+      ]
+    },
+    {
+      "id": 7,
+      "enunciado": "¿En qué año cayó el Muro de Berlín?",
+      "imagen": "hist_muro_berlin",
+      "opciones": [
+        {"texto": "1989", "es_correcta": true},
+        {"texto": "1991", "es_correcta": false},
+        {"texto": "1985", "es_correcta": false},
+        {"texto": "1993", "es_correcta": false}
+      ]
+    },
+    {
+      "id": 8,
+      "enunciado": "¿Cuántos años duró la Guerra de los Cien Años?",
+      "imagen": "hist_guerra_cien_anios",
+      "opciones": [
+        {"texto": "116 años", "es_correcta": true},
+        {"texto": "100 años", "es_correcta": false},
+        {"texto": "87 años", "es_correcta": false},
+        {"texto": "124 años", "es_correcta": false}
+      ]
+    },
+    {
+      "id": 9,
+      "enunciado": "¿Quién fue la creadora de la enfermería profesional moderna?",
+      "imagen": "hist_enfermeria",
+      "opciones": [
+        {"texto": "Florence Nightingale", "es_correcta": true},
+        {"texto": "Virginia Henderson", "es_correcta": false},
+        {"texto": "Hildegard Peplau", "es_correcta": false},
+        {"texto": "Clara Barton", "es_correcta": false}
+      ]
+    },
+    {
+      "id": 10,
+      "enunciado": "En la antigüedad, ¿qué olor era igual a lujo y alto estatus?",
+      "imagen": "hist_perfume",
+      "opciones": [
+        {"texto": "Patchouli", "es_correcta": true},
+        {"texto": "Rosa", "es_correcta": false},
+        {"texto": "Lavanda", "es_correcta": false},
+        {"texto": "Ámbar", "es_correcta": false}
+      ]
+    }
+  ]
+}

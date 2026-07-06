@@ -1,0 +1,115 @@
+{
+  "categoria": "Geografía",
+  "preguntas": [
+    {
+      "id": 1,
+      "enunciado": "¿Cuál es el río más largo del mundo?",
+      "imagen": "geo_rio_nilo",
+      "opciones": [
+        {"texto": "El Nilo", "es_correcta": true},
+        {"texto": "El Amazonas", "es_correcta": false},
+        {"texto": "El Yangtsé", "es_correcta": false},
+        {"texto": "El Misisipi", "es_correcta": false}
+      ]
+    },
+    {
+      "id": 2,
+      "enunciado": "¿En qué continente está el desierto del Sahara?",
+      "imagen": "geo_desierto_sahara",
+      "opciones": [
+        {"texto": "África", "es_correcta": true},
+        {"texto": "Asia", "es_correcta": false},
+        {"texto": "América", "es_correcta": false},
+        {"texto": "Oceanía", "es_correcta": false}
+      ]
+    },
+    {
+      "id": 3,
+      "enunciado": "¿Cuál es la capital de Australia?",
+      "imagen": "geo_canberra",
+      "opciones": [
+        {"texto": "Canberra", "es_correcta": true},
+        {"texto": "Sídney", "es_correcta": false},
+        {"texto": "Melbourne", "es_correcta": false},
+        {"texto": "Brisbane", "es_correcta": false}
+      ]
+    },
+    {
+      "id": 4,
+      "enunciado": "¿Cuál es el océano más grande del mundo?",
+      "imagen": "geo_oceano_pacifico",
+      "opciones": [
+        {"texto": "El Pacífico", "es_correcta": true},
+        {"texto": "El Atlántico", "es_correcta": false},
+        {"texto": "El Índico", "es_correcta": false},
+        {"texto": "El Ártico", "es_correcta": false}
+      ]
+    },
+    {
+      "id": 5,
+      "enunciado": "¿Cuál es la montaña más alta del mundo?",
+      "imagen": "geo_monte_everest",
+      "opciones": [
+        {"texto": "Monte Everest", "es_correcta": true},
+        {"texto": "K2", "es_correcta": false},
+        {"texto": "Kangchenjunga", "es_correcta": false},
+        {"texto": "Mont Blanc", "es_correcta": false}
+      ]
+    },
+    {
+      "id": 6,
+      "enunciado": "¿Cuántos países tiene América del Sur?",
+      "imagen": "geo_america_sur",
+      "opciones": [
+        {"texto": "12", "es_correcta": true},
+        {"texto": "10", "es_correcta": false},
+        {"texto": "14", "es_correcta": false},
+        {"texto": "8", "es_correcta": false}
+      ]
+    },
+    {
+      "id": 7,
+      "enunciado": "¿Cuál es el país más pequeño del mundo?",
+      "imagen": "geo_vaticano",
+      "opciones": [
+        {"texto": "Ciudad del Vaticano", "es_correcta": true},
+        {"texto": "Mónaco", "es_correcta": false},
+        {"texto": "San Marino", "es_correcta": false},
+        {"texto": "Liechtenstein", "es_correcta": false}
+      ]
+    },
+    {
+      "id": 8,
+      "enunciado": "¿Cuál es el país más grande del mundo por superficie?",
+      "imagen": "geo_rusia_mapa",
+      "opciones": [
+        {"texto": "Rusia", "es_correcta": true},
+        {"texto": "Canadá", "es_correcta": false},
+        {"texto": "China", "es_correcta": false},
+        {"texto": "Estados Unidos", "es_correcta": false}
+      ]
+    },
+    {
+      "id": 9,
+      "enunciado": "¿En qué país se encuentra el lago Titicaca?",
+      "imagen": "geo_lago_titicaca",
+      "opciones": [
+        {"texto": "Entre Perú y Bolivia", "es_correcta": true},
+        {"texto": "Solo en Bolivia", "es_correcta": false},
+        {"texto": "Solo en Perú", "es_correcta": false},
+        {"texto": "Entre Chile y Argentina", "es_correcta": false}
+      ]
+    },
+    {
+      "id": 10,
+      "enunciado": "¿Cuál es la capital de Canadá?",
+      "imagen": "geo_ottawa",
+      "opciones": [
+        {"texto": "Ottawa", "es_correcta": true},
+        {"texto": "Toronto", "es_correcta": false},
+        {"texto": "Montreal", "es_correcta": false},
+        {"texto": "Vancouver", "es_correcta": false}
+      ]
+    }
+  ]
+}

@@ -1,0 +1,115 @@
+{
+  "categoria": "Deportes",
+  "preguntas": [
+    {
+      "id": 1,
+      "enunciado": "¿En qué país se celebraron los Juegos Olímpicos de 2016?",
+      "imagen": "dep_olimpiadas_rio",
+      "opciones": [
+        {"texto": "Brasil", "es_correcta": true},
+        {"texto": "China", "es_correcta": false},
+        {"texto": "Argentina", "es_correcta": false},
+        {"texto": "Japón", "es_correcta": false}
+      ]
+    },
+    {
+      "id": 2,
+      "enunciado": "¿Cuántos jugadores forman un equipo de fútbol en el campo?",
+      "imagen": "dep_futbol_campo",
+      "opciones": [
+        {"texto": "11", "es_correcta": true},
+        {"texto": "9", "es_correcta": false},
+        {"texto": "12", "es_correcta": false},
+        {"texto": "10", "es_correcta": false}
+      ]
+    },
+    {
+      "id": 3,
+      "enunciado": "¿Quién tiene el récord mundial de los 100 metros lisos?",
+      "imagen": "dep_usain_bolt",
+      "opciones": [
+        {"texto": "Usain Bolt", "es_correcta": true},
+        {"texto": "Carl Lewis", "es_correcta": false},
+        {"texto": "Tyson Gay", "es_correcta": false},
+        {"texto": "Asafa Powell", "es_correcta": false}
+      ]
+    },
+    {
+      "id": 4,
+      "enunciado": "¿Cuántos sets necesita ganar un tenista para ganar en Grand Slam masculino?",
+      "imagen": "dep_tenis_grandslam",
+      "opciones": [
+        {"texto": "3", "es_correcta": true},
+        {"texto": "2", "es_correcta": false},
+        {"texto": "4", "es_correcta": false},
+        {"texto": "5", "es_correcta": false}
+      ]
+    },
+    {
+      "id": 5,
+      "enunciado": "¿En qué deporte se usa un 'birdie'?",
+      "imagen": "dep_golf",
+      "opciones": [
+        {"texto": "Golf", "es_correcta": true},
+        {"texto": "Bádminton", "es_correcta": false},
+        {"texto": "Tenis", "es_correcta": false},
+        {"texto": "Squash", "es_correcta": false}
+      ]
+    },
+    {
+      "id": 6,
+      "enunciado": "¿Qué país ha ganado más Mundiales de fútbol?",
+      "imagen": "dep_mundial_futbol",
+      "opciones": [
+        {"texto": "Brasil", "es_correcta": true},
+        {"texto": "Alemania", "es_correcta": false},
+        {"texto": "Italia", "es_correcta": false},
+        {"texto": "Argentina", "es_correcta": false}
+      ]
+    },
+    {
+      "id": 7,
+      "enunciado": "¿Cuántos aros tiene la bandera olímpica?",
+      "imagen": "dep_bandera_olimpica",
+      "opciones": [
+        {"texto": "5", "es_correcta": true},
+        {"texto": "4", "es_correcta": false},
+        {"texto": "6", "es_correcta": false},
+        {"texto": "7", "es_correcta": false}
+      ]
+    },
+    {
+      "id": 8,
+      "enunciado": "¿En qué deporte se compite por el Trofeo Borg-Warner?",
+      "imagen": "dep_indy500",
+      "opciones": [
+        {"texto": "Indy 500", "es_correcta": true},
+        {"texto": "Fórmula 1", "es_correcta": false},
+        {"texto": "NASCAR", "es_correcta": false},
+        {"texto": "Rally Dakar", "es_correcta": false}
+      ]
+    },
+    {
+      "id": 9,
+      "enunciado": "¿Cuántos puntos vale un try en rugby?",
+      "imagen": "dep_rugby_try",
+      "opciones": [
+        {"texto": "5", "es_correcta": true},
+        {"texto": "3", "es_correcta": false},
+        {"texto": "6", "es_correcta": false},
+        {"texto": "4", "es_correcta": false}
+      ]
+    },
+    {
+      "id": 10,
+      "enunciado": "¿Qué altura mide exactamente la red en tenis?",
+      "imagen": "dep_tenis_red",
+      "opciones": [
+        {"texto": "91,4 cm en el centro", "es_correcta": true},
+        {"texto": "100 cm en el centro", "es_correcta": false},
+        {"texto": "80 cm en el centro", "es_correcta": false},
+        {"texto": "95 cm en el centro", "es_correcta": false}
+      ]
+    }
+  ]
+}

@@ -1,0 +1,115 @@
+{
+  "categoria": "Música",
+  "preguntas": [
+    {
+      "id": 1,
+      "enunciado": "¿Cuántos integrantes tenía la banda The Beatles?",
+      "imagen": "mus_beatles",
+      "opciones": [
+        {"texto": "4", "es_correcta": true},
+        {"texto": "3", "es_correcta": false},
+        {"texto": "5", "es_correcta": false},
+        {"texto": "6", "es_correcta": false}
+      ]
+    },
+    {
+      "id": 2,
+      "enunciado": "¿Qué artista es conocido como el 'Rey del Pop'?",
+      "imagen": "mus_michael_jackson",
+      "opciones": [
+        {"texto": "Michael Jackson", "es_correcta": true},
+        {"texto": "Elvis Presley", "es_correcta": false},
+        {"texto": "Prince", "es_correcta": false},
+        {"texto": "David Bowie", "es_correcta": false}
+      ]
+    },
+    {
+      "id": 3,
+      "enunciado": "¿En qué año murió Freddie Mercury, vocalista de Queen?",
+      "imagen": "mus_freddie_mercury",
+      "opciones": [
+        {"texto": "1991", "es_correcta": true},
+        {"texto": "1994", "es_correcta": false},
+        {"texto": "1989", "es_correcta": false},
+        {"texto": "1997", "es_correcta": false}
+      ]
+    },
+    {
+      "id": 4,
+      "enunciado": "¿Cuántas cuerdas tiene una guitarra estándar?",
+      "imagen": "mus_guitarra",
+      "opciones": [
+        {"texto": "6", "es_correcta": true},
+        {"texto": "4", "es_correcta": false},
+        {"texto": "7", "es_correcta": false},
+        {"texto": "5", "es_correcta": false}
+      ]
+    },
+    {
+      "id": 5,
+      "enunciado": "¿Qué cantante lanzó el álbum 'Thriller' en 1982?",
+      "imagen": "mus_thriller_album",
+      "opciones": [
+        {"texto": "Michael Jackson", "es_correcta": true},
+        {"texto": "Prince", "es_correcta": false},
+        {"texto": "Whitney Houston", "es_correcta": false},
+        {"texto": "Madonna", "es_correcta": false}
+      ]
+    },
+    {
+      "id": 6,
+      "enunciado": "¿De qué país es originaria la banda AC/DC?",
+      "imagen": "mus_acdc",
+      "opciones": [
+        {"texto": "Australia", "es_correcta": true},
+        {"texto": "Reino Unido", "es_correcta": false},
+        {"texto": "Estados Unidos", "es_correcta": false},
+        {"texto": "Canadá", "es_correcta": false}
+      ]
+    },
+    {
+      "id": 7,
+      "enunciado": "¿Cómo se llama el instrumento de viento que toca Kenny G?",
+      "imagen": "mus_saxofon",
+      "opciones": [
+        {"texto": "Saxofón soprano", "es_correcta": true},
+        {"texto": "Clarinete", "es_correcta": false},
+        {"texto": "Flauta travesera", "es_correcta": false},
+        {"texto": "Saxofón alto", "es_correcta": false}
+      ]
+    },
+    {
+      "id": 8,
+      "enunciado": "¿Qué grupo musical es conocido por la canción 'Bohemian Rhapsody'?",
+      "imagen": "mus_queen_banda",
+      "opciones": [
+        {"texto": "Queen", "es_correcta": true},
+        {"texto": "Led Zeppelin", "es_correcta": false},
+        {"texto": "The Rolling Stones", "es_correcta": false},
+        {"texto": "Pink Floyd", "es_correcta": false}
+      ]
+    },
+    {
+      "id": 9,
+      "enunciado": "¿Cuántas teclas tiene un piano estándar?",
+      "imagen": "mus_piano",
+      "opciones": [
+        {"texto": "88", "es_correcta": true},
+        {"texto": "72", "es_correcta": false},
+        {"texto": "96", "es_correcta": false},
+        {"texto": "76", "es_correcta": false}
+      ]
+    },
+    {
+      "id": 10,
+      "enunciado": "¿En qué país nació Mozart?",
+      "imagen": "mus_mozart",
+      "opciones": [
+        {"texto": "Austria", "es_correcta": true},
+        {"texto": "Alemania", "es_correcta": false},
+        {"texto": "Italia", "es_correcta": false},
+        {"texto": "Francia", "es_correcta": false}
+      ]
+    }
+  ]
+}

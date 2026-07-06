@@ -1,0 +1,115 @@
+{
+  "categoria": "Películas",
+  "preguntas": [
+    {
+      "id": 1,
+      "enunciado": "¿Qué película ganó el primer Oscar a Mejor Película en 1928?",
+      "imagen": "pel_alas_1927",
+      "opciones": [
+        {"texto": "Alas (Wings)", "es_correcta": true},
+        {"texto": "El cantante de jazz", "es_correcta": false},
+        {"texto": "Amanecer", "es_correcta": false},
+        {"texto": "El gran desfile", "es_correcta": false}
+      ]
+    },
+    {
+      "id": 2,
+      "enunciado": "¿Quién dirigió la trilogía de El Señor de los Anillos?",
+      "imagen": "pel_señor_anillos",
+      "opciones": [
+        {"texto": "Peter Jackson", "es_correcta": true},
+        {"texto": "Steven Spielberg", "es_correcta": false},
+        {"texto": "James Cameron", "es_correcta": false},
+        {"texto": "Ridley Scott", "es_correcta": false}
+      ]
+    },
+    {
+      "id": 3,
+      "enunciado": "¿En qué año se estrenó Titanic de James Cameron?",
+      "imagen": "pel_titanic",
+      "opciones": [
+        {"texto": "1997", "es_correcta": true},
+        {"texto": "1995", "es_correcta": false},
+        {"texto": "1999", "es_correcta": false},
+        {"texto": "2000", "es_correcta": false}
+      ]
+    },
+    {
+      "id": 4,
+      "enunciado": "¿Qué actor interpreta a Iron Man en el UCM?",
+      "imagen": "pel_iron_man",
+      "opciones": [
+        {"texto": "Robert Downey Jr.", "es_correcta": true},
+        {"texto": "Chris Evans", "es_correcta": false},
+        {"texto": "Mark Ruffalo", "es_correcta": false},
+        {"texto": "Chris Hemsworth", "es_correcta": false}
+      ]
+    },
+    {
+      "id": 5,
+      "enunciado": "¿Cuál es la película animada más taquillera de la historia?",
+      "imagen": "pel_el_rey_leon",
+      "opciones": [
+        {"texto": "El Rey León (2019)", "es_correcta": true},
+        {"texto": "Frozen II", "es_correcta": false},
+        {"texto": "Los Minions", "es_correcta": false},
+        {"texto": "Toy Story 4", "es_correcta": false}
+      ]
+    },
+    {
+      "id": 6,
+      "enunciado": "¿En qué película aparece la frase 'Yo soy tu padre'?",
+      "imagen": "pel_star_wars_empire",
+      "opciones": [
+        {"texto": "El Imperio Contraataca", "es_correcta": true},
+        {"texto": "Una Nueva Esperanza", "es_correcta": false},
+        {"texto": "El Retorno del Jedi", "es_correcta": false},
+        {"texto": "La Amenaza Fantasma", "es_correcta": false}
+      ]
+    },
+    {
+      "id": 7,
+      "enunciado": "¿Quién interpretó a Jack en Titanic?",
+      "imagen": "pel_titanic_jack",
+      "opciones": [
+        {"texto": "Leonardo DiCaprio", "es_correcta": true},
+        {"texto": "Brad Pitt", "es_correcta": false},
+        {"texto": "Johnny Depp", "es_correcta": false},
+        {"texto": "Tom Hanks", "es_correcta": false}
+      ]
+    },
+    {
+      "id": 8,
+      "enunciado": "¿Cuántas películas tiene la saga principal de Star Wars?",
+      "imagen": "pel_star_wars_saga",
+      "opciones": [
+        {"texto": "9", "es_correcta": true},
+        {"texto": "6", "es_correcta": false},
+        {"texto": "8", "es_correcta": false},
+        {"texto": "12", "es_correcta": false}
+      ]
+    },
+    {
+      "id": 9,
+      "enunciado": "¿Qué película de Christopher Nolan trata sobre sueños dentro de sueños?",
+      "imagen": "pel_inception",
+      "opciones": [
+        {"texto": "Inception", "es_correcta": true},
+        {"texto": "Interstellar", "es_correcta": false},
+        {"texto": "The Dark Knight", "es_correcta": false},
+        {"texto": "Memento", "es_correcta": false}
+      ]
+    },
+    {
+      "id": 10,
+      "enunciado": "¿En qué año se estrenó la primera película de Harry Potter?",
+      "imagen": "pel_harry_potter",
+      "opciones": [
+        {"texto": "2001", "es_correcta": true},
+        {"texto": "1999", "es_correcta": false},
+        {"texto": "2000", "es_correcta": false},
+        {"texto": "2002", "es_correcta": false}
+      ]
+    }
+  ]
+}

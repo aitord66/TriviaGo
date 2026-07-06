@@ -1,0 +1,115 @@
+{
+  "categoria": "Ciencia",
+  "preguntas": [
+    {
+      "id": 1,
+      "enunciado": "¿Cuántos huesos tiene el cuerpo humano adulto?",
+      "imagen": "cien_esqueleto_humano",
+      "opciones": [
+        {"texto": "206", "es_correcta": true},
+        {"texto": "212", "es_correcta": false},
+        {"texto": "198", "es_correcta": false},
+        {"texto": "220", "es_correcta": false}
+      ]
+    },
+    {
+      "id": 2,
+      "enunciado": "¿Cuál es el elemento más abundante en el universo?",
+      "imagen": "cien_universo_galaxia",
+      "opciones": [
+        {"texto": "Hidrógeno", "es_correcta": true},
+        {"texto": "Oxígeno", "es_correcta": false},
+        {"texto": "Helio", "es_correcta": false},
+        {"texto": "Carbono", "es_correcta": false}
+      ]
+    },
+    {
+      "id": 3,
+      "enunciado": "¿A qué velocidad viaja la luz en el vacío aproximadamente?",
+      "imagen": "cien_velocidad_luz",
+      "opciones": [
+        {"texto": "300.000 km/s", "es_correcta": true},
+        {"texto": "150.000 km/s", "es_correcta": false},
+        {"texto": "500.000 km/s", "es_correcta": false},
+        {"texto": "1.000.000 km/s", "es_correcta": false}
+      ]
+    },
+    {
+      "id": 4,
+      "enunciado": "¿Cuál es el planeta más grande del sistema solar?",
+      "imagen": "cien_jupiter",
+      "opciones": [
+        {"texto": "Júpiter", "es_correcta": true},
+        {"texto": "Saturno", "es_correcta": false},
+        {"texto": "Neptuno", "es_correcta": false},
+        {"texto": "Urano", "es_correcta": false}
+      ]
+    },
+    {
+      "id": 5,
+      "enunciado": "¿Qué gas produce las plantas durante la fotosíntesis?",
+      "imagen": "cien_fotosintesis",
+      "opciones": [
+        {"texto": "Oxígeno", "es_correcta": true},
+        {"texto": "Dióxido de carbono", "es_correcta": false},
+        {"texto": "Nitrógeno", "es_correcta": false},
+        {"texto": "Hidrógeno", "es_correcta": false}
+      ]
+    },
+    {
+      "id": 6,
+      "enunciado": "¿Cuál es el símbolo químico del oro?",
+      "imagen": "cien_oro_elemento",
+      "opciones": [
+        {"texto": "Au", "es_correcta": true},
+        {"texto": "Go", "es_correcta": false},
+        {"texto": "Or", "es_correcta": false},
+        {"texto": "Ag", "es_correcta": false}
+      ]
+    },
+    {
+      "id": 7,
+      "enunciado": "¿Cuántos cromosomas tiene una célula humana normal?",
+      "imagen": "cien_cromosomas",
+      "opciones": [
+        {"texto": "46", "es_correcta": true},
+        {"texto": "23", "es_correcta": false},
+        {"texto": "48", "es_correcta": false},
+        {"texto": "44", "es_correcta": false}
+      ]
+    },
+    {
+      "id": 8,
+      "enunciado": "¿Qué órgano produce la insulina?",
+      "imagen": "cien_pancreas",
+      "opciones": [
+        {"texto": "El páncreas", "es_correcta": true},
+        {"texto": "El hígado", "es_correcta": false},
+        {"texto": "Los riñones", "es_correcta": false},
+        {"texto": "El bazo", "es_correcta": false}
+      ]
+    },
+    {
+      "id": 9,
+      "enunciado": "¿Cuántas capas tiene la atmósfera terrestre?",
+      "imagen": "cien_atmosfera_tierra",
+      "opciones": [
+        {"texto": "5", "es_correcta": true},
+        {"texto": "3", "es_correcta": false},
+        {"texto": "4", "es_correcta": false},
+        {"texto": "6", "es_correcta": false}
+      ]
+    },
+    {
+      "id": 10,
+      "enunciado": "¿Cuál es el número atómico del carbono?",
+      "imagen": "cien_tabla_periodica",
+      "opciones": [
+        {"texto": "6", "es_correcta": true},
+        {"texto": "8", "es_correcta": false},
+        {"texto": "12", "es_correcta": false},
+        {"texto": "4", "es_correcta": false}
+      ]
+    }
+  ]
+}
